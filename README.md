@@ -1,0 +1,2 @@
+# galera
+Puppet Galera Module
